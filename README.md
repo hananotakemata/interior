@@ -18,7 +18,10 @@ DIYが好きな人やインテリアが好きな人、これから新生活を�
 - DIYをしたくて参考にしたい時
 - インテリアの情報を気軽に発信したい時
 - 参考にしたい写真やユーザーを探したい時
-​
+
+## 実装機能リスト
+https://docs.google.com/spreadsheets/d/1-KXOt0HbkJo-sTH-uI0qDoat6gHPN_iHoepW5JkvUq4/edit?usp=sharing
+
 ## 設計書
 後ほど作成予定
 ​
